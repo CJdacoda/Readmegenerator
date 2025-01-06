@@ -30,6 +30,6 @@ Feel free to fork the repository, create a new branch, and submit a pull request
 After running the generator, check the newly created README.md file in the project root to ensure the data entered was correctly formatted.
 
 ## Questions
-If you have any questions, feel free to reach me at:
+There is no video so if you have any questions, feel free to reach me at:
 - Email: [calebparker256@gmail.com](mailto:calebparker256@gmail.com)
 - GitHub: [CJdacoda](https://github.com/CJdacoda)
