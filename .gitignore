@@ -1,1 +1,6 @@
-node_modules
+n# Node.js dependencies
+node_modules/
+
+.DS_Store
+
+*.log
